@@ -9,7 +9,7 @@ Copilot AI was reason I deleted all my projects from GitHub. Using one of the la
 Thus "Bogey" was created to generate invalid inputs for Copilot. As one of 83 million people using GitHub I have less than 0.000001% impact on learning of Copilot. But with your help we can make a difference. 
  
 ## How to run?
-Clone this repo to location of your choice. In terminal, navigate to the cloned repo and run:     
+Clone this repo to location of your choice. In terminal, navigate to the cloned repo and run script in any shell you prefer. For most people it will be bash:    
   
 `
 bash bogey.sh
