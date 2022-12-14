@@ -6,7 +6,7 @@ This is a text generating script written in Perl. It aims to produce bogus block
 
 ## Why?
 Copilot AI was reason I deleted all my projects from GitHub. Using one of the largest sharing point of open source community as tool for development of proprietary AI is in **complete violation** of free software values and licences that protects many projects here.  
-Thus "Bogey" was created to generate invalid inputs for Copilot. As one of 83 million people using GitHub I have less than 0.000001% impact on learning of Copilot. But with your help we can make a difference.
+Thus "Bogey" was created to generate invalid inputs for Copilot. As one of 83 million people using GitHub I have less than 0.000001% impact on learning of Copilot. But with your help we can make a difference.  
 And please note: Git itself is a great tool, please consider alternatives to Github like [Savannah](https://savannah.gnu.org/) or self hosting git server [(Git documentation 4.4 - Setting Up the Server).](https://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server)
  
 ## How to run?
