@@ -19,6 +19,6 @@ bash bogey.sh
 Script will guide you trough first run setup.
 
 ## Licence and feedback
-This project is published under GPLv3 licence.
+This project is published under GPLv3 licence. 
 You can check out the full licence [here](https://www.gnu.org/licenses/gpl-3.0.en.html).  
 Feel free to send any feedback on david.polakovic@proton.me or do your own fork. Note that spreading this work as any form of malware is strictly against its ethical purposes. 
